@@ -1,0 +1,16 @@
+header{
+    padding: 10px;
+    border: 4px black solid;
+}
+.title-header {
+    background-color: black;
+    color: blanchedalmond;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 40px;
+    padding: 10px;
+}
+
+body{
+    background-color: blanchedalmond;
+}
