@@ -1,6 +1,7 @@
 header{
     padding: 10px;
     border: 4px black solid;
+    text-align: center;
 }
 .title-header {
     background-color: black;
