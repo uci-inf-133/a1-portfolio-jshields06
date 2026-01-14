@@ -47,6 +47,10 @@ https://www.w3schools.com/htmlcss/default.asp
 https://www.w3schools.com/bootstrap5/index.php
 https://www.w3schools.com/html/default.asp
 https://wiki.whatwg.org/wiki/Presentational_elements_and_attributes
+https://www.w3schools.com/html/html5_semantic_elements.asp
+https://cloudinary.com/guides/automatic-image-cropping/5-ways-to-crop-images-in-html-css
+https://www.w3schools.com/howto/howto_css_images_side_by_side.asp
+https://www.w3schools.com/css/css3_gradients.asp
 
 I used AI to give me ideas on what might qualify as an advanced feature for this project.
 
