@@ -39,14 +39,16 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 4. How long, in hours, did it take you to complete this assignment?
-
+1 +
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
 https://www.w3schools.com/htmlcss/default.asp
 https://www.w3schools.com/bootstrap5/index.php
 https://www.w3schools.com/html/default.asp
+https://wiki.whatwg.org/wiki/Presentational_elements_and_attributes
 
+I used AI to give me ideas on what might qualify as an advanced feature for this project.
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 
@@ -54,3 +56,5 @@ https://www.w3schools.com/html/default.asp
 
 7. Is there anything special we need to know in order to run your code?
 
+Code should run fine with both the index.html and style.css in the same file.
+Optimally, you can use a terminal to run the code using "open index.html" for macOS or "start index.html" for Windows.
