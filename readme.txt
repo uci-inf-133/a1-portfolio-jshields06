@@ -26,11 +26,12 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 (b) CSS features
+Margins, background colors, padding, borders, text aligns, background image (gradients), 
 
 
 
 (c) Advanced features
-
+Bootstrap5, reference spacing
 
 
 
@@ -39,7 +40,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 4. How long, in hours, did it take you to complete this assignment?
-1 +
+1 + 2 + 
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
@@ -52,13 +53,12 @@ https://cloudinary.com/guides/automatic-image-cropping/5-ways-to-crop-images-in-
 https://www.w3schools.com/howto/howto_css_images_side_by_side.asp
 https://www.w3schools.com/css/css3_gradients.asp
 
-I used AI to give me ideas on what might qualify as an advanced feature for this project.
+I used AI to give me ideas on what might qualify as an advanced feature for this project. Also, how to use bootstrap 5.
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
+Emily Melgarejo: Approaches for 
 
 
 7. Is there anything special we need to know in order to run your code?
-
-Code should run fine with both the index.html and style.css in the same file.
+Bootstrap5 should be installed.
 Optimally, you can use a terminal to run the code using "open index.html" for macOS or "start index.html" for Windows.
