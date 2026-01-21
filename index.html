@@ -15,39 +15,86 @@ EMAIL: shieldj1@uci.edu
   <title>Shields Portfolio</title>
 </head>
 <body>
-  <header> 
-    <h1 class="title-header">
-      Jasmine Shields' Portfolio
-    </h1>
-  </header>
-  <section class="aboutme">
-    <h2>About Me</h2>
-    <p>
-      Hello! My name is Jasmine Shields, and I am a third-year Computer Science student at the University of California, Irvine.
-      While attending UC Irvine, I have developed a passion for learning new things and have come to love problem-solving. 
-      I enjoy playing video games (such as Nier Automata and Stardew Valley), reading mystery books, and exploring new restaurants with my friends!
-      Some of my fave video game characrters are 2B (Nier), Espeon (Pokemon), and Kirby!
-    </p>
-    <h3>Images of Me</h3>
+  
+  <header class="title-container">
     <div class="row">
-    <div class="wrap">
-    <img src="images/image1.jpeg" alt="At the beach." width="300" class="image1">
+      <div class="col-12">
+        <h1 class="title-header">Jasmine Shields' Portfolio</h1>
+      </div>
     </div>
-    <div class="wrap">
-    <img src="images/image2.jpeg" alt="With friends at Aldrich Park After Dark." width="300" class="image2">
+  </header>
+
+  <section class="aboutme-container">
+    <h2>About Me</h2>
+    <div class="text-container">
+      <div class="row">
+        <div class="col-12">
+          <p>
+            Hello! My name is Jasmine Shields, and I am a third-year Computer Science student at the University of California, Irvine.
+            While attending UC Irvine, I have developed a passion for learning new things and have come to love problem-solving. 
+            I enjoy playing video games (such as Nier Automata and Stardew Valley), reading mystery books, and exploring new restaurants with my friends!
+            Some of my fave video game characrters are 2B (Nier), Espeon (Pokemon), and Kirby!
+          </p>
+        </div>
+      </div>
     </div>
-    <div class="wrap">
-    <img src="images/image3.jpeg" alt="At the mall with my friend." width="300" class="image3">
-    </div>
+    <hr>
+    <h4>Images of Me</h4>
+    <div class="row g-3">
+      <div class="col-lg-4 col-md-12 col-sm-12">
+        <div class="img-contain">
+          <img src="images/image1.jpeg" alt="At the beach." class="img-fluid image1">
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-12 col-sm-12">
+        <div class="img-contain">
+          <img src="images/image2.jpeg" alt="With friends at Aldrich Park After Dark." class="img-fluid image2">
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-12 col-sm-12">
+        <div class="img-contain">
+          <img src="images/image3.jpeg" alt="At the mall with my friend." class="img-fluid image3">
+        </div>
+      </div>
     </div>
   </section>
-  <section class="projects">
+
+  <section class="projects-container">
     <h2>Projects</h2>
-  <p>
-    <a href="http://validator.w3.org/check?uri=referer">
-       W3C validator
-    </a>
-  </p>
+      <div class="row g-3">
+        <div class="col-xl-3 col-lg-6 col-md-12 col-sm-12 col-xs-12">
+          <div class="card">
+            <h5 class="card-header">Project 1: Personal Website</h5>
+            <div class="card-body">
+              <p class="card-text">Created a personal website using HTML and CSS to showcase my portfolio and projects.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-3 col-lg-6 col-md-12 col-sm-12 col-xs-12">
+          <div class="card">
+            <h5 class="card-header">Project 2: Sample Project</h5>
+            <div class="card-body">
+              <p class="card-text">Sample project description.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-3 col-lg-6 col-md-12 col-sm-12 col-xs-12">
+          <div class="card">
+            <h5 class="card-header">Project 3: Sample Project</h5>
+            <div class="card-body">
+              <p class="card-text">Sample project description.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-3 col-lg-6 col-md-12 col-sm-12 col-xs-12">
+          <div class="card">
+            <h5 class="card-header">Project 4: Sample Project</h5>
+            <div class="card-body">
+              <p class="card-text">Sample project description.</p>
+            </div>
+          </div>
+        </div>
+      </div>
   </section>
 </body>
 </html>

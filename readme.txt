@@ -40,7 +40,7 @@ Bootstrap5, reference spacing
 
 
 4. How long, in hours, did it take you to complete this assignment?
-1 + 2 + 
+1 + 2 + 2
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
@@ -53,7 +53,13 @@ https://cloudinary.com/guides/automatic-image-cropping/5-ways-to-crop-images-in-
 https://www.w3schools.com/howto/howto_css_images_side_by_side.asp
 https://www.w3schools.com/css/css3_gradients.asp
 
-I used AI to give me ideas on what might qualify as an advanced feature for this project. Also, how to use bootstrap 5.
+I used AI to:
+- give me ideas on what might qualify as an advanced feature for this project
+- how to use bootstrap 5
+- how to make the section go to the bottom of the page
+- formatting images to be square
+- adding a decorative line in between about me and images of me
+
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 Emily Melgarejo: Approaches for 
