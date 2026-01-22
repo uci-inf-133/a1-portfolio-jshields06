@@ -126,12 +126,12 @@ h3{
     align-items: center;
     display: flex;
     position: relative;
-    display: flex;
     width: 200px;
     height: 200px;
     overflow: hidden;
     margin: auto;
-    margin-bottom: 50px;
+    margin-top: auto;
+    margin-bottom: 60px;
 }
 
 .image4, .image5, .image6, .image7{
@@ -147,7 +147,8 @@ h3{
 .card{
     width: auto;
     height: auto;
-    margin: 10px;
+    min-height: 500px;
+    margin: auto;
     justify-content: center;
     border-radius: 10px;
     display: flex;
@@ -165,12 +166,11 @@ h3{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color:  rgb(247, 241, 250)!important;
     overflow: hidden;
-    margin: 10px;
+    margin: auto;
     padding: 10px;
     display: flex;
     flex-direction: column;
     flex-grow: 1;
-    min-height: 400px;
 }
 
 .card-text{
