@@ -76,7 +76,6 @@ I used AI to:
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 Emily Melgarejo: Approaches for structure. Having multiple pages instead of just one page. Ideas for advanced features. Validity checking comparison ie. what kind of errors if any.
 
-
 7. Is there anything special we need to know in order to run your code?
 // index.html is the home page including the about me and images
 // projects.html is the projects page including project details
