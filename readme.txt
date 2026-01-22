@@ -23,24 +23,30 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 (a) Basic features
 
+Images (3 downloaded and stored in images folder, 4 from url links)
+Headings and paragraph text
+Links to external pages
+Multiple pages
+Semantic HTML tags
+
 
 
 (b) CSS features
-Margins, background colors, padding, borders, text aligns, background image (gradients), 
+Paddings and Margins
+Text color modifications
+
 
 
 
 (c) Advanced features
-Bootstrap5, reference spacing
-
-
+Navagation bar at the top, including a nav-brand.
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
 
 
 
 4. How long, in hours, did it take you to complete this assignment?
-1 + 2 + 2
+1 + 2 + 2 + 4 = 9 hours
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
@@ -59,12 +65,20 @@ I used AI to:
 - how to make the section go to the bottom of the page
 - formatting images to be square
 - adding a decorative line in between about me and images of me
+- different nav bar - endings and what they mean 
+- using !important
+- using clamp()
+- coming up with fake projects
 
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-Emily Melgarejo: Approaches for 
+Emily Melgarejo: Approaches for structure. Having multiple pages instead of just one page. Ideas for advanced features. Validity checking comparison ie. what kind of errors if any.
 
 
 7. Is there anything special we need to know in order to run your code?
+// index.html is the home page including the about me and images
+// projects.html is the projects page including project details
+// resume.html is the resume page including my resume and links to my linkedin and github
+
 Bootstrap5 should be installed.
 Optimally, you can use a terminal to run the code using "open index.html" for macOS or "start index.html" for Windows.
